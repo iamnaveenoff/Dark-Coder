@@ -55,7 +55,7 @@ deserves!.
   <img src="assets/contrast.png" width="auto" height="auto"/>
 </p>
 - Cleans the clutter of the IDE and simplifies color usage to simple 3 degrees of black.
-- Beautiful Code color scheme based on Xcode using the awesome Xcode-theme plugin.
+- Beautiful Code color scheme based on Xcode using the awesome True-Black plugin.
 
 ## Color Palette 🎨
 
@@ -65,7 +65,7 @@ deserves!.
 
 ## Thanks 🙏🏻
 
-Thanks to [Zihan Ma](https://github.com/WhiteVermouth), who created
+Thanks to [AhmedElshaer](https://github.com/ahmed3elshaer), who created
 the [True-Black-Theme](https://github.com/ahmed3elshaer/IntelliJ-True-Black-Theme) that this project is based on. Without that starting
 point, this plugin may have never been created.
 
