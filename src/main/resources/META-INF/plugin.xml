@@ -1,0 +1,13 @@
+<idea-plugin>
+    <id>com.iamnaveenoff.darkCoder</id>
+    <name>Dark Coder</name>
+    <vendor email="naveencreater106@gmail.com" url="https:/github.com/iamnaveenoff">Naveen Kumar</vendor>
+    <depends>com.intellij.modules.platform</depends>
+    <idea-version since-build="223"/>
+    <extensions defaultExtensionNs="com.intellij">
+        <applicationService serviceImplementation="com.iamnaveenoff.darkCoder.settings.PluginMetaSettings"/>
+        <postStartupActivity implementation="com.iamnaveenoff.darkCoder.activities.StartupActivity"/>
+        <notificationGroup displayType="STICKY_BALLOON" id="Dark Coder," isLogByDefault="true"/>
+        <themeProvider id="ae7a917c-04b2-4468-bab7-6ddd4c43f879" path="/DarkCoder.theme.json"/>
+    </extensions>
+</idea-plugin>
